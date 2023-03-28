@@ -1,4 +1,4 @@
-package basic;
+package Agmt_1;
 
 import java.util.Scanner;
 

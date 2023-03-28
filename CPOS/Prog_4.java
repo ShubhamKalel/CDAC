@@ -1,4 +1,4 @@
-package basic;
+package Agmt_1;
 //How to check whether the given number is Positive or Negative in Java? 
 
 import java.util.Scanner;
